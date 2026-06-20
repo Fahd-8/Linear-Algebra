@@ -8,6 +8,7 @@ eigenvalues and more, explained simply with Python code. Built for ML beginners.
 ## What is this?
 
 Most ML tutorials throw code at you without explaining the math behind it.
+
 This repo does the opposite — understand the concept first, then see it in code.
 
 Each concept follows this structure:
